@@ -30,3 +30,13 @@ a {
     font-size: 36px;
     line-height: 80px;
 }
+
+.aboutUs {
+    width: 1174px;
+    height: 507px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 373px 100px 373px 100px;
+}
